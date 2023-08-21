@@ -1,5 +1,5 @@
 # Cat-Vs-Dog-Image-Classification
-#Dataset Information:
+Dataset Information:
 
 The training archive contains 25,000 images of dogs and cats. Train your algorithm on these files and predict the labels
 
@@ -7,7 +7,7 @@ The training archive contains 25,000 images of dogs and cats. Train your algorit
 
 Download link: https://download.microsoft.com/download/3/E/1/3E1C3F21-ECDB-4869-8368-6DEBA77B919F/kagglecatsanddogs_5340.zip
 
-#Environment: 
+Environment: 
 
 Jupyter Notebook
 
@@ -20,6 +20,6 @@ keras
 tensorflow
 scikit-learn
 
-#Algorithm used:
+Algorithm used:
 
 Convolutional Neural Networks
